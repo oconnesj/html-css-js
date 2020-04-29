@@ -4,6 +4,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-family: 'Open Sans', sans-serif;
     background-color:#F1EAEA;
+    
 
 
 
@@ -39,8 +40,11 @@ h3{
 }
 
 table {
-    padding: 1em;
+   
+    text-align: left;
+
     width: 100%;
+    color: blue;
  
 
 }
