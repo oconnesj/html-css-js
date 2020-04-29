@@ -1,3 +1,30 @@
+body{
+    line-height: 1.5em;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    background-color:#F1EAEA;
+
+
+
+
+}
+
+#wrapper{
+	border-left:1px solid black;
+	width:1000px;
+	margin:0 auto 0 auto;
+	margin-bottom: 1em;
+    box-shadow:5px 5px 10px black;
+    padding: 50px 50px;
+    background-color: rgba(249,249,249,0.67)
+
+}
+
 table {
-    color: rgba(30,89,173,1);
+    padding: 1em;
+    border-style: groove;
+    border-radius: 2em;
+
+
 }
