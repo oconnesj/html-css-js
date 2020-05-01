@@ -1,0 +1,13 @@
+#left, #center,#right{
+    display: inline-block;
+    
+}
+
+
+
+#center {
+    color: black;
+    font-style: normal;
+    
+    
+}
