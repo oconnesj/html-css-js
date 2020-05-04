@@ -1,13 +1,36 @@
 #left, #center,#right{
     display: inline-block;
+    padding: 6px;
+    box-shadow: 5px black;
+
+
     
+}
+button{
+    border-radius: 8px;
+    box-shadow:2px 2px 2px black;
+    background-color: #e6e6e6;
+    font-size: 20px;
+
+
+
 }
 
 
+
+input{
+    text-align: center;
+    font-size: 15px;
+
+
+
+}
 
 #center {
     color: black;
     font-style: normal;
+    padding: 5px;
     
     
 }
+

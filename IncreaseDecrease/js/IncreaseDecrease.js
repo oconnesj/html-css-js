@@ -13,7 +13,7 @@ let increaseBtn = () => {
 
 
     if (valueInput % 7 === 0) {
-        normal.style.fontWeight = "800";
+        normal.style.fontWeight = "bold";
     }
 
     if (valueInput % 2 === 0) {
